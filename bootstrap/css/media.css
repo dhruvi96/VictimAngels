@@ -1,0 +1,535 @@
+@media only screen and (max-width:1280px) 
+{
+    .menu1 li, .menu2 li {
+        font-size: 19px
+    }
+    #menuid {
+        margin-left: 1243px;
+    }
+}
+@media only screen and (max-width:1024px) 
+{
+	.cenpen {
+        left: 442px; 
+    }
+    .quote {
+        left: 359px;
+    }
+    .tap {
+        left:460px;
+    }
+    .loginp {
+        margin: 50px 200px 0px 200px;
+    }
+    .animg {
+        left: 115px;
+        top: -14px;
+    }
+    .logo h1{
+        padding-left: 73px;
+        font-size: 32px;
+    }
+    .logo h3{
+        padding-left: 80px;
+        font-size: 21px;
+    }
+    .menu1 li, .menu2 li {
+        font-size: 15px;
+    }
+    #menuid {
+        margin-left: 987px;
+    }
+    .bb-custom-side p {
+        font-size: 19px;
+        max-height: 258px;    
+    }
+    .bb-custom-wrapper .bb-bookblock {
+        height: 95%;
+    }
+    .arrows{
+        left: 412px;
+    }
+    .jbox{
+        margin-left: 1%;
+    }
+    .testimg {
+        left: 678px;
+    }
+    #testbtn{
+        margin: -102px 35px 0px 0px;
+    }
+    .testclose {
+        left: 710px;
+        top: 171px;
+    }
+    .lawlist p{
+        font-size: 16px;
+    }
+}
+@media only screen and (max-width:980px) 
+{
+	.cenpen {
+        left: 425px; 
+    }
+    .quote {
+        left: 324px;
+    }
+    .tap {
+        left:443px;
+    }
+     .menu1 , .menu2{
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .hbody{
+         background-image: none;   
+    }
+    #menuid{
+        position: absolute;
+        right: 2px;
+    }
+    .logo h1, .logo h3{
+        float:none;
+        text-align: center;
+        padding-left: 0px;
+    }
+    #logom{
+        margin-left: 0px;
+    }
+    .loginp {
+        margin: 20px 100px 0px 100px;
+    }
+    .animg {
+        left: 47px;
+        height: 150px;
+    }
+    .bb-custom-side h1{
+        font-size: 32px;
+        margin-top: 7px;
+    }
+    .bb-custom-side p {
+        font-size: 18px;
+        max-height: 271px;
+    }
+    .bb-custom-side img {
+        width: 330px;
+    }
+    .arrows {
+        left: 295px;
+    }
+    .jbox {
+        width: 900px;
+        margin-left: 4%;
+    }
+    .jbox ul {
+        padding-left: 39px;
+    }
+    .ca-menu{
+        width: 950px;
+    }
+    .testclose {
+        left: 664px;
+        top: 141px;
+    }
+    .article {
+        width: 50%;
+    }
+    .newb{
+        margin-top: 10px;
+        float: none;
+        position: relative;
+        top: 0px;
+        right: 0px;
+    }
+    
+@media only screen and (max-width:800px) 
+{
+    .cenpen {
+        left: 335px; 
+        top:156px;
+    }
+    .quote {
+        left: 250px;
+        top:360px;
+    }
+    .tap {
+        left:353px;
+        top:94px;
+    }
+   .lbtn {
+        margin-left: 20%;
+    }
+    .nloginp {
+        padding-left: 120px;
+    }
+    .animg {
+        top: -4px;
+    }
+    .jbox {
+        width: 750px;
+        margin-left: 3%;
+        height: 350px;
+    }
+    .jbox ul {
+        padding-left: 10px;
+    }
+    .ca-menu li {
+        width: 200px;
+        height: 200px;
+    }
+    .ca-main{
+        margin-top: 0px;
+    }
+    .ca-sub {
+        margin-top: 0px;
+        font-size: 20px;
+    }
+    .testimg {
+        left: 530px;
+    }
+    .newtest {
+        margin: 50px 100px;
+    }
+    .testclose {
+        left: 677px;
+    }
+    
+}
+
+@media only screen and (max-width:768px) 
+{
+	.cenpen {
+        left: 317px; 
+    }
+    .quote {
+        left: 223px;
+    }
+    .tap {
+        left:336px;
+    }
+    .lbtn {
+    margin-left: 18%;
+    }
+    .animg{
+        top:-3px;
+    }
+    .jbox {
+        margin-left: 1%;
+    }
+    .testclose {
+        left: 649px;
+    }
+    .dform {
+        position: absolute;
+        left: 100px;
+        width: 600px;
+    }
+}
+@media only screen and (max-width:640px) 
+{
+    .cenpen {
+    left: 274px;
+    top: 95px;
+    width: 110px;
+    height: 110px;
+    }	
+    .quote h1{
+        font-size: 24px;
+    }
+    .quote {
+        left: 214px;
+        top:236px;
+    }
+    .tap {
+        left: 286px;
+        top: 50px;
+    }
+    .tap h3{
+        font-size: 18px;
+    }
+    .nloginp {
+        padding-left: 70px;
+    }
+    .lbtn {
+        margin-left: 13%;
+    }
+    .animg {
+        top: -5px;
+    }
+    .bb-custom-side img {
+        width: 290px;
+    }
+    .arrows {
+        left: 238px;
+        top: 402px;
+    }
+    .bb-custom-wrapper .bb-bookblock {
+        height: 138%;
+    }
+    .jbox {
+        width: 600px;
+        margin-left: 3%;
+    }
+    .ca-menu li:last-child {
+        margin-left: 188px;
+        margin-top: -69px;
+    }
+    .ca-menu li:first-child {
+        margin-right: 173px;
+    }
+    .jbox ul {
+        padding-top: 9px;
+    }
+    .ca-menu {
+        width: 650px;
+    }
+    .cd-testimonials-wrapper {
+        margin: 5em auto;
+    }
+    .testimg {
+        left: 488px;
+        top: 135px;
+        height: 85px;
+    }
+    #testbtn {
+        margin: -52px 480px 0px 0px;
+    }
+    .testclose {
+        left: 521px;
+    }
+    .dform {
+        left: 20px;
+    }
+    .advdesp{
+        font-size: 19px;
+    }
+    .lawlist p{
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width:480px) 
+{
+    .cenpen {
+        left: 200px;
+        top: 100px;
+        width: 80px;
+        height: 80px;
+    }
+    .quote {
+        left: 130px;
+        top: 210px;
+    }
+    .tap {
+        left: 197px;
+    }
+    .loginp {
+        margin: 10px 50px 0px 50px;
+    }
+    .nloginp input {
+        width: 88%;
+    }
+    .nloginp {
+        padding-left: 30px;
+    }
+	.animg{
+        height: 100px;
+        top:-3px;
+        left: 20px;
+    }
+    .bb-custom-side img {
+        height: 300px;
+    }
+    .bb-custom-side h1 {
+        font-size: 22px;
+    }
+    .bb-custom-side p {
+        font-size: 14px;
+        max-height: 254px;
+    }
+    .arrows {
+        left: 160px;
+        top: 345px;
+    }
+    .bb-custom-wrapper .bb-bookblock {
+        height: 62%;
+    }
+    .ca-menu {
+        width: 450px;
+    }
+    .jbox {
+        width: 450px;
+        height: 470px;
+    }
+    .ca-menu li:last-child {
+        margin-left: 215px;
+        margin-top: -329px;
+    }
+    .ca-menu li:nth-child(2){
+        margin-top: 52px;
+    }
+    .testimg {
+        left: 335px;
+    }
+    #testbtn {
+        margin: -52px 325px 0px 0px;
+    }
+    .newtest {
+        margin: 50px 50px;
+    }
+    .testclose {
+        left: 411px;
+    }
+    .back{
+        width: 40px;
+    }
+    .signup {
+        font-size: 32px;
+    }
+    .drhead{
+        font-size: 23px;
+    }
+    .drlist .name {
+        font-size: 15px;
+    }
+    .donor {
+        margin: 30px 20px
+    }
+    .dform {
+        position: absolute;
+        left: 100px;
+        width: 300px;
+    }
+    .article {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width:360px) 
+{
+	
+	.cenpen {
+        left: 148px;
+        top: 46px;
+    }	
+    .quote h1{
+        font-size: 21px;
+    }
+    .quote {
+        left: 92px;
+        top: 142px;
+    }
+    .tap {
+        left: 155px;
+        top: 1px;
+    }
+    .tap h3{
+        font-size: 15px;
+    }
+    .loginp {
+        margin: 20px 20px;
+    }
+    .nloginp legend {
+        width: 90%;
+        font-size: 22px;
+    }
+    .nloginp h3{
+        font-size: 19px;
+    }
+    .animg{
+        left: -3px;
+    }
+    .bb-custom-side img {
+        height: 230px;
+    }
+    .bb-custom-side h1 {
+        font-size: 16px;
+    }
+    .bb-custom-side p {
+        font-size: 11px;
+        max-height: 181px;
+    }
+    .arrows {
+        left: 102px;
+        top: 264px;
+    }
+    .bb-custom-wrapper .bb-bookblock {
+        height: 49%;
+    }
+    .ca-menu li:first-child {
+        margin-right: 0;
+        margin-left: 61px;
+        margin-top: 15px;
+    }
+    .ca-menu {
+        width: 350px;
+    }
+    .jbox {
+        width: 350px;
+        height: 670px;
+        margin-left: 0px;
+    }
+    .ca-menu li:nth-child(2){
+        margin-top: 15px;
+        margin-left: 61px;
+    }
+    .ca-menu li:last-child{
+        margin-top: 15px;
+        margin-left: 61px;
+    }
+    #testbtn {
+        margin: -52px 213px 0px 0px;
+    }
+    .testimg {
+        left: 218px;
+    }
+    .newtest {
+        margin: 20px;
+    }
+    .testclose {
+        left: 322px;
+        top: 113px;
+    }
+    .dform {
+        left: 12px;
+    }
+}
+
+@media only screen and (max-width:320px) 
+{
+	.cenpen {
+        left: 124px;
+    }
+    .quote {
+        left: 68px;
+        top: 130px
+    }
+    .tap {
+        left: 130px;
+    }
+    .lbtn {
+        margin-left: 6%;
+    }
+    .arrows {
+        left: 82px;
+        top: 262px;
+    }
+	.jbox {
+        width: 300px;
+        height: 670px;
+        margin-left: 10px;
+    }
+    .ca-menu li:nth-child(2) , .ca-menu li:last-child , .ca-menu li:first-child{
+        margin-left: 43px;
+    }
+    #testbtn {
+        margin: -52px 176px 0px 0px;
+    }
+    .testimg {
+        left: 181px;
+        top: 123px;
+    }
+    .testclose {
+        left: 280px;
+    }
+}

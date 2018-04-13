@@ -1,0 +1,72 @@
+/* test.php */
+#body{
+    background-color: #074968;
+}
+.logo{
+    float:left;
+    margin-left: 40%;
+    color: #f9f6fc;
+    
+}
+.logo h2{
+    margin-left: 14px;
+    margin-bottom: 3px;
+    margin-top: 30px;
+}
+.logo h3{
+    margin-top: 2px;
+}
+.menu{
+    cursor: pointer;
+    color: #e8f1f8;
+    font-size: 21px;
+}
+.menu-items  li{
+    text-decoration: none;
+    list-style: none;
+}
+.item1 img , .item2 img, .item3 img , .item4 img , .item5 img{
+    height:150px;
+    width:150px;
+    float:left;       
+}
+
+#blogdet{
+    background: rgba(0,0,0,0.4);
+    color:#fff;
+    width:400px;
+    margin:100px auto;
+    float:left;
+    display:none ;
+    text-align:center;
+}
+.item1 img:hover #blogdet {
+    display: block;
+}
+.nlogin , .dlogin{
+    width:45%;
+    height: 500px;
+    padding:40px;
+    text-align: center;
+    line-height: 50px;
+    float:left;
+    color:aliceblue;
+    background-color: rgba(1,1,1,0.7);
+    margin:10px;
+    margin-top: 40px;
+}
+.nlogin h2 , .dlogin h2{
+    padding-top:130px;
+}
+.nlogin p , .dlogin p{
+    font-size: 20px;
+}
+.guide{
+    position: absolute;
+    bottom:20px;
+    right:10px
+}
+.guide img{
+    width:150px;
+    height:200px;
+}
