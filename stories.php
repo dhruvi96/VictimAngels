@@ -15,10 +15,12 @@ $run=mysqli_query($con,$sql);
 						<div class="bb-custom-side">
 							<img src="images/<?php echo $res['img']; ?>"/>
 						</div>
+				    <a href="story_model.php?id=<?php echo $res['id']; ?>" style="color:#000;">
 						<div class="bb-custom-side">
 						    <h1><?php echo $res['title']; ?></h1>
 							<p><?php echo $res['disp']; ?></p>
 						</div>
+				    </a>
 					</div>
 					<?php
                     }
@@ -35,7 +37,7 @@ $run=mysqli_query($con,$sql);
 			</div>
 
 		</div><!-- /container -->
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 		<script src="bookblock/js/jquerypp.custom.js"></script>
 		<script src="bookblock/js/jquery.bookblock.js"></script>
 		<script>

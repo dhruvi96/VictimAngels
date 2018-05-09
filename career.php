@@ -1,4 +1,16 @@
 <?php include('header.php') ?>
+<?php
+if(!isset($_SESSION['uid']))
+{
+    ?>
+    <script>alert('Yoy are not login!!');
+        window.open('login.php','_self');
+    </script>
+    <?php
+}
+else
+{
+  ?>
 <div class="job">
   <div class="jbox">
    <ul class="ca-menu">
@@ -30,20 +42,9 @@
                         </a>                    
                     </li>
     </ul>
-   
- <!--       <div align="center" class="row">
-            <div class="col-md-offset-3 col-md-6 jbtn">
-                <a href="job.php" class="btn btn-primary">Job</a>
-            </div>
-        </div>
-        <div align="center" class="row">
-            <div class="col-md-6 subtn">
-                <a href="sup.php" class="btn btn-success">Start-Up</a>
-            </div>
-            <div class="col-md-6 hbtn">
-                <a href="hire.php" class="btn btn-danger">Hire</a>
-            </div>
-        </div>
-    </div>-->
+
 </div>
+<?php
+}
+?>
 <?php include('footer.php') ?>

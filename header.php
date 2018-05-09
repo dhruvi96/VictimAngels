@@ -145,7 +145,7 @@ function googleTranslateElementInit() {
         if(isset($_SESSION['uid']))  
         {
         ?>
-        <a target="_blank" href="https://www.messenger.com/t/250628798790827" class="btn btn-success" style="color:white;position:fixed;bottom:0;right:0;width:200px;z-index:3;">CHAT NOW</a> 
+        <a target="_blank" href="https://www.messenger.com/t/250628798790827" class="btn btn-success" style="color:white;position:fixed;bottom:0;right:0;width:200px;z-index:1000;">CHAT NOW</a> 
         <?php
         }
         ?>

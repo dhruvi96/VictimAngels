@@ -90,6 +90,7 @@ $(document).ready(function(e){
     $(window).load(function() {
         $(".loader").fadeOut("slow");
     });
+    
 });
     $(document).ready(function(e){
     

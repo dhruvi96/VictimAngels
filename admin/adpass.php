@@ -1,6 +1,7 @@
 <?php
 $head="Change Admin Password";
 include('header.php');
+?>
     <div class="lform">
         <form action="" method="POST" role="form">
             <div class="form-group">
